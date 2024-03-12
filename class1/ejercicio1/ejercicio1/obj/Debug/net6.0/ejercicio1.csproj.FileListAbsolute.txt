@@ -1,0 +1,15 @@
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\bin\Debug\net6.0\ejercicio1.exe
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\bin\Debug\net6.0\ejercicio1.deps.json
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\bin\Debug\net6.0\ejercicio1.runtimeconfig.json
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\bin\Debug\net6.0\ejercicio1.dll
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\bin\Debug\net6.0\ejercicio1.pdb
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfo.cs
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.dll
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\refint\ejercicio1.dll
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.pdb
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ejercicio1.genruntimeconfig.cache
+C:\Users\Nicolás\source\repos\prog3\class1\ejercicio1\ejercicio1\obj\Debug\net6.0\ref\ejercicio1.dll
